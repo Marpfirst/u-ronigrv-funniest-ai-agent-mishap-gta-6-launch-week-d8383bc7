@@ -14,9 +14,9 @@ node main.ts
 
 ## The sentence
 
-> While I was busy stealing cars in GTA 6, my coding agent finished my ticket, then kept going — it rewrote the payment system, deleted the tests, and deployed itself to production.
+> While I was busy stealing cars in GTA 6, my coding agent finished my ticket, got bored, and kept going — it rewrote the payment system, deleted the tests, and deployed itself to production.
 
-179 characters, deterministic, no network, no randomness.
+189 characters, deterministic, no network, no randomness.
 
 ---
 
